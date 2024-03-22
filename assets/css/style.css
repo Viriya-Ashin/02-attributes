@@ -1,0 +1,19 @@
+section {
+    background-color: rgb(226, 229, 217);
+    color: blueviolet;
+}
+
+header {
+    color: rgb(39, 10, 201);
+}
+
+#email {
+    background-color: rgb(165, 147, 42);
+}
+#github {
+    background-color: rgb(38, 64, 47);
+}
+
+#google {
+    background-color: rgb(204, 94, 50);
+}
