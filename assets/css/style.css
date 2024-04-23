@@ -1,6 +1,6 @@
 section {
     background-color: rgb(226, 229, 217);
-    color: blueviolet;
+    
     
 }
 
@@ -12,7 +12,7 @@ header {
     background-color: rgb(165, 147, 42);
 }
 #github {
-    background-color: rgb(38, 64, 47);
+    background-color: yellowgreen
 }
 
 #google {
